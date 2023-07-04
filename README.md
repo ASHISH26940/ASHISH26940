@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript|GSAP|Mongodb**
 
-- 🤝 I’m looking for help with [Miranda]
+- 🤝 I’m looking for help with [Miranda](https://miranda-clone.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ASHISH26940](https://github.com/ASHISH26940)
 
