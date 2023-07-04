@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [Miranda,Kolkata](https://personal-2-pi.vercel.app/,https://kolkata-alpha.vercel.app/)
+- 🔭 I’m currently working on [Kolkata](https://kolkata-alpha.vercel.app/)
 
 - 🌱 I’m currently learning **Javascript|GSAP|Mongodb**
 
-- 🤝 I’m looking for help with [Miranda](https://personal-2-pi.vercel.app/)
+- 🤝 I’m looking for help with [Miranda]
 
 - 👨‍💻 All of my projects are available at [https://github.com/ASHISH26940](https://github.com/ASHISH26940)
 
