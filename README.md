@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [Kolkata](https://kolkata-alpha.vercel.app/)|[Miranda-clone](https://miranda-clone.vercel.app/),[Miranda-original](https://www.niccolomiranda.com/)
+- 🔭 I’m currently working on [Kolkata](https://kolkata-alpha.vercel.app/)|[Miranda-clone](https://miranda-clone.vercel.app/)  
+- Inspirations: [Miranda-original](https://www.niccolomiranda.com/)
 
 - 🌱 I’m currently learning **Javascript|GSAP|Mongodb**
 
