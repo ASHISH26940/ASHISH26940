@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [Kolkata](https://kolkata-alpha.vercel.app/)
+- 🔭 I’m currently working on [Kolkata](https://kolkata-alpha.vercel.app/)|[Miranda](https://miranda-clone.vercel.app/)
 
 - 🌱 I’m currently learning **Javascript|GSAP|Mongodb**
 
