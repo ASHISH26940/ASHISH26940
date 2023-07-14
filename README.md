@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML , CSS and Figma**
 
-- 📫 How to reach me **gupta.ashsih2694@gmail.com**
+- 📫 How to reach me **gupta.ashish2694@gmail.com**
 
 - ⚡ Fun fact **None**
 
