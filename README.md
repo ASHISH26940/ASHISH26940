@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [Kolkata](https://kolkata-alpha.vercel.app/)|[Miranda-clone](https://miranda-clone.vercel.app/)  
-- Inspirations: [Miranda-original](https://www.niccolomiranda.com/)
+- 🌱 I’m currently learning **Web3**
 
-- 🌱 I’m currently learning **Javascript|GSAP|Mongodb**
-
-- 🤝 I’m looking for help with [Miranda-clone](https://miranda-clone.vercel.app/)
+- 🤝 I’m looking for help with [toy-interpreter-project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ASHISH26940](https://github.com/ASHISH26940)
 
-- 💬 Ask me about **HTML , CSS and Figma**
+- 💬 Ask me about **Nextjs,shadcn and MERN stack**
 
 - 📫 How to reach me **gupta.ashish2694@gmail.com**
 
