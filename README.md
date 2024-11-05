@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gupta.ashish2694@gmail.com**
 
-- ⚡ Fun fact **Arch Linux Fan**
+- ⚡ Fun fact **I use Arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
